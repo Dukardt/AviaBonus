@@ -6,7 +6,6 @@ public class Main {
         int bonusMiles = totalAmount / rublesPerMile;
 
         System.out.println("Итого начисленно бонусных миль: " + bonusMiles);
-
-        int totalMiles = 500;
     }
 }
+// Итого начисленно бонусных миль: 500
